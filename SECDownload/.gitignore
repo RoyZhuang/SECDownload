@@ -1,0 +1,6 @@
+__pycache__
+venv
+env
+.pytext_cache
+.coverage
+.DS_Store
